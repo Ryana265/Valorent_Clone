@@ -8,5 +8,5 @@
 - **Bootstrap**
 
 ### Hosted Link
-- You can view the live website here: [[https://ryana265.github.io/Royal_Jutti_Co/](https://valorentclone.netlify.app/)](https://valorentclone.netlify.app/)
+- You can view the live website here: (https://valorentclone.netlify.app/)](https://valorentclone.netlify.app/)
 
