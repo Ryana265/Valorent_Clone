@@ -4,7 +4,7 @@
     font-family: "Poppins", sans-serif;
 }
 .header {
-    background-color: #111;
+    background-color: #202020;
     padding: 10px 0;
     height: 80px;
 }
@@ -25,7 +25,7 @@
 
 }
 .header nav ul li {
-    margin: 0 15px;
+    margin: 0 19px;
     /* margin-right: 30px; */
 }
 .header nav ul li a {
@@ -35,6 +35,8 @@
 }
 .header nav ul li a:hover {
     color: #FF4655;
+    background-color: #3d3b3b;
+
 }
 .header nav ul li a img {
     vertical-align: middle;
